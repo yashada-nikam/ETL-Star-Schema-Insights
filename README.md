@@ -21,10 +21,15 @@ To get started with the ETL Star Schema Insights project, follow these steps:
 **Dependencies**
 
 PostgreSQL
+
 Python 3.x
+
 pandas
+
 numpy
+
 psycopg2
+
 ipython-sql
 
 **Usage**
